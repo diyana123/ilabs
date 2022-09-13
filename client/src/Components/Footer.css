@@ -1,0 +1,7 @@
+.label{
+    display:flex;
+    align-items:right;
+    justify-content:flex-start;
+    margin-left: 580px;
+    margin-top:-40px;
+}

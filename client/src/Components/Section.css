@@ -1,0 +1,29 @@
+/*.section{
+    
+    height:100vh;
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    
+    box-shadow: 0 0 0 1000px ;
+    object-fit:contain;
+   
+    background-color:rgb(153, 212, 216);
+
+}*/
+.section > h5{
+    
+    margin-bottom:-200%;
+    margin-left:150%;
+
+}
+.button{
+    margin-left:1200px;
+    
+    
+
+}
+
+.buttony{
+    margin-left:1000px;
+}

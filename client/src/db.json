@@ -1,0 +1,8 @@
+{
+    "faq": [
+        {"id":1,"question":"What is the vision of ilabs?","category":"About Company","status":"Published"},
+        {"id":2,"question":"What is the mission of ilabs?","category":"About Company","status":"Published"},
+        {"id":3,"question":"When ilabs got estabilished?","category":"About Company","status":"Published"}
+        
+    ]
+}
